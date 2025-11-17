@@ -74,7 +74,7 @@ os.environ['OPENAI_API_KEY'] = 'your-api-key-here'
 
 ## 3. 체크포인트 다운로드
 
-학습된 체크포인트는 다음 경로에서 다운로드할 수 있습니다:
+학습된 체크포인트 및 코드 전체는 다음 경로에서 다운로드할 수 있습니다:
 
 **다운로드 링크**: https://drive.google.com/file/d/1u4sxxaVTviEZwdhF83NrLArPgdqq8_PN/view?usp=drive_link
 
